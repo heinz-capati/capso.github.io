@@ -1,19 +1,19 @@
 {
-  "name": "CAPSo Hardware Dashboard",
-  "short_name": "CAPSo",
+  "name": "CAPSo Enterprise ERP",
+  "short_name": "CAPSo ERP",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#fde047",
-  "description": "A dashboard for managing hardware orders.",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "description": "Enterprise Resource Planning MVP for hardware logistics, inventory, delivery receipts, and quotations.",
   "icons": [
     {
-      "src": "images/logo-192.png",
+      "src": "Images/logo-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "images/logo-512.png",
+      "src": "Images/logo-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
